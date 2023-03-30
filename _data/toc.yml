@@ -1,0 +1,13 @@
+nav:
+  - title: Processing
+    url: /processing
+    subnav:
+      - title: Variables
+        url: /variables
+  - title: Python
+    url: /python
+    subnav:
+      - title: Python Cheat Sheet
+        url: /python_cheat_sheet
+  - title: Search the site
+    url: /search
