@@ -5,7 +5,7 @@ layout: page
 ---
 
 <center>
-<img src="./assets/images/flowchart.png" alt="drawing" width="400"/>
+<img src="./assets/images/wallpaper.gif" alt="drawing" width="400"/>
 </center>
 
 &nbsp;
