@@ -2,6 +2,12 @@ nav:
   - title: Processing
     url: /processing
     subnav:
+      - title: Coordinate System
+        url: /processing_coordinates
+      - title: Shapes
+        url: /processing_shapes
+      - title: Colors
+        url: /processing_color
       - title: Variables
         url: /variables
   - title: Python
