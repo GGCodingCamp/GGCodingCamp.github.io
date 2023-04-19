@@ -103,7 +103,7 @@ square(60, 40, 70); //square with TOP-LEFT CORNER at (60, 40) with each side 70 
 Syntax:
 
 ```
-square(x, y, lenX, lenY); //draws a rectangle with TOP-LEFT CORNER at (x, y) and breadth of lenX, and height of lenY.
+rect(x, y, lenX, lenY); //draws a rectangle with TOP-LEFT CORNER at (x, y) and breadth of lenX, and height of lenY.
 ```
 
 Example:
